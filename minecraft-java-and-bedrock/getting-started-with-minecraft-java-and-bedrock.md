@@ -1,8 +1,11 @@
+---
+description: >-
+  Welcome to the world of blocks! 🌍 Witchly makes it incredibly easy to host
+  your own Minecraft world, whether you are playing on PC (Java) or
+  Console/Mobile (Bedrock). Our servers come pre-configured
+---
+
 # ⚔️ Getting Started with Minecraft (Java & Bedrock)
-
-
-
-Welcome to the world of blocks! 🌍 Witchly makes it incredibly easy to host your own Minecraft world, whether you are playing on PC (Java) or Console/Mobile (Bedrock). Our servers come pre-configured so you can jump straight into the action.
 
 > ⚠️ No Egg Switching: At Witchly, we optimize our hardware for specific games. If you want to change your server type (e.g., from Java to Bedrock), please contact support. To change versions (e.g., 1.20 to 1.21), you can simply replace the `server.jar` in your File Manager.
 

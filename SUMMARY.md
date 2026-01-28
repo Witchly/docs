@@ -15,6 +15,8 @@
 ## Minecraft (Java & Bedrock)
 
 * [⚔️ Getting Started with Minecraft (Java & Bedrock)](minecraft-java-and-bedrock/getting-started-with-minecraft-java-and-bedrock.md)
+* [🌎 Uploading Your World (Java & Bedrock)](minecraft-java-and-bedrock/uploading-your-world-java-and-bedrock.md)
+* [📥 Downloading Your World](minecraft-java-and-bedrock/downloading-your-world.md)
 * [📜 Commands Cheat Sheet](minecraft-java-and-bedrock/commands-cheat-sheet.md)
 * [⚙️ Basic Server Settings](minecraft-java-and-bedrock/basic-server-settings.md)
 * [🧩 Installing Mods & Plugins](minecraft-java-and-bedrock/installing-mods-and-plugins.md)

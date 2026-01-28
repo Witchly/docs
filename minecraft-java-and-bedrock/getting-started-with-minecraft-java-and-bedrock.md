@@ -88,4 +88,3 @@ Can't connect? Don't rage-quit just yet.
 
 ***
 
-Would you like me to generate a "Commands Cheat Sheet" for your Minecraft admins next?

@@ -19,6 +19,7 @@
 * [📥 Downloading Your World](minecraft-java-and-bedrock/downloading-your-world.md)
 * [📜 Commands Cheat Sheet](minecraft-java-and-bedrock/commands-cheat-sheet.md)
 * [⚙️ Basic Server Settings](minecraft-java-and-bedrock/basic-server-settings.md)
+* [👤 Importing Player Data to Hytale](minecraft-java-and-bedrock/importing-player-data-to-hytale.md)
 * [🧩 Installing Mods & Plugins](minecraft-java-and-bedrock/installing-mods-and-plugins.md)
 * [🎨 Customizing Server Icon & MOTD](minecraft-java-and-bedrock/customizing-server-icon-and-motd.md)
 * [📱 Crossplay: Joining Java from Mobile/Console](minecraft-java-and-bedrock/crossplay-joining-java-from-mobile-console.md)
@@ -32,6 +33,7 @@
 * [📜 Admin Commands](hytale/admin-commands.md)
 * [⚙️ Hytale Server Configuration](hytale/hytale-server-configuration.md)
 * [🧪 Custom Scripts (Modding)](hytale/custom-scripts-modding.md)
+* [🔌 Installing Mods on Hytale](hytale/installing-mods-on-hytale.md)
 * [🌐 Custom Domain: Hytale](hytale/custom-domain-hytale.md)
 * [🔄 Changing Server Version: Hytale](hytale/changing-server-version-hytale.md)
 
@@ -39,6 +41,7 @@
 
 * [☢️ Getting Started with Rust](rust/getting-started-with-rust.md)
 * [🧹 How to Wipe Your Server](rust/how-to-wipe-your-server.md)
+* [💾 Changing Your Save Interval in Rust](rust/changing-your-save-interval-in-rust.md)
 * [🔌 Rust Plugins (Oxide/UMod)](rust/rust-plugins-oxide-umod.md)
 * [📡 RCON & Remote Admin](rust/rcon-and-remote-admin.md)
 * [🌐 Custom Domain: Rust](rust/custom-domain-rust.md)
@@ -49,6 +52,7 @@
 * [⚙️ Customizing Palworld Rules](palworld/customizing-palworld-rules.md)
 * [💾 Backups & Saving Your World](palworld/backups-and-saving-your-world.md)
 * [🌐 Custom Domain: Palworld](palworld/custom-domain-palworld.md)
+* [🥊 Palworld: Known Issues & Common Fixes](palworld/palworld-known-issues-and-common-fixes.md)
 
 ## Others
 

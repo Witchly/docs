@@ -1,6 +1,6 @@
 ---
 description: The easiest place to host your dream game server.
-cover: .gitbook/assets/witchly-banner.png
+cover: .gitbook/assets/unwatermarked_Gemini_Generated_Image_nhaqefnhaqefnhaq.png
 coverY: 0
 ---
 

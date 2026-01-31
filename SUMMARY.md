@@ -2,6 +2,7 @@
 
 * [👋 Welcome to Witchly!](README.md)
 * [🔗 Official Links & Logins](official-links-and-logins.md)
+* [🧪 Claim Your 24-Hour Free Trial](claim-your-24-hour-free-trial.md)
 
 ## Getting Started
 

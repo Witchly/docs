@@ -6,18 +6,28 @@ description: >-
 
 # 🧪 Claim Your 24-Hour Free Trial
 
-> ⚠️ No Egg Switching: Just like our paid tiers, you cannot change the "Egg" (Server Type) yourself. Your trial is locked to the game you selected at checkout. If you want to switch games, please reach out to our support team!
+> ⚠️ No Egg Switching: Trial servers are locked to the game selected at checkout. To change games, please contact our support team.
 
 ***
 
 ### ⚡ What’s Under the Hood?
 
-We believe you should try before you buy. That’s why our trial servers run on the exact same high-performance infrastructure as our "Pro" nodes.
+* Elite Hardware: Lag-free gameplay powered by Ryzen 9 processors.
+* Instant Setup: Your server (e.g., `germany-1.witchly.host`) is online seconds after checkout.
+* Full Control: Complete Witchly Panel access for mods, plugins, and SFTP uploads.
+* DDoS Protection: Enterprise-grade security to keep your connection safe.
 
-* Elite Hardware: Experience 0-lag gameplay powered by Ryzen 9 processors.
-* Instant Setup: Your server is online and reachable at a hostname like `germany-1.witchly.host` seconds after checkout.
-* Full Control: Get complete access to the Witchly Panel (Pterodactyl). Install mods, plugins, or upload your own files via SFTP.
-* DDoS Protection: Our enterprise-grade shielding keeps your IP safe while you play with friends.
+***
+
+### 🚫 Trial Limitations
+
+To keep our nodes running smoothly for everyone, the following limits apply to all trial servers:
+
+* Time Limit: The server will automatically suspend exactly 24 hours after the time of deployment.
+* Player Slots: Trial servers are limited to a maximum of 5 concurrent players.
+* Resource Cap: While we use high-end Ryzen CPUs, trials are allocated 2GB of RAM.
+* One Per Customer: Only one trial is allowed per account to prevent abuse.
+* No Sub-Users: You cannot add additional staff members to the panel during the trial period.
 
 ***
 
@@ -34,21 +44,20 @@ We believe you should try before you buy. That’s why our trial servers run on 
 
 ### 💰 How to Get it for FREE ($0.00)
 
-The trial is listed at $5.00 to prevent bot abuse, but you can make it completely free by using our secret "Witchly Magic" code at checkout.
+The trial is listed at $5.00 to prevent bot abuse. Use the code below to drop the price to zero.
 
 #### Step-by-Step Activation:
 
 1. Choose your game and click Add to Cart.
-2. Proceed to the Checkout page.
-3. Look for the Promo Code box.
-4. Enter the code: `TESTDRIVE`
-5. Watch the total price drop to $0.00!
+2. At the Checkout page, find the Promo Code box.
+3. Enter code: `TESTDRIVE`
+4. Watch the total drop to $0.00 and complete your order!
 
 ***
 
 ### ⏳ What Happens After 24 Hours?
 
-Don't let your progress vanish into the void!
+* Automatic Suspension: The server suspends exactly 24 hours after activation.
+* Keep Your Progress: Pay the renewal invoice in your Witchly Dashboard to keep your world and settings permanently.
 
-* Automatic Suspension: The server will automatically suspend exactly 24 hours after activation.
-* Keep Your Progress: If you love the performance, simply pay the renewal invoice generated in your Witchly Dashboard. Your world, settings, and player data will be saved and moved to a permanent plan.
+***

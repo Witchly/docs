@@ -3,6 +3,7 @@ description: >-
   Welcome to the world of blocks! 🌍 Witchly makes it incredibly easy to host
   your own Minecraft world, whether you are playing on PC (Java) or
   Console/Mobile (Bedrock). Our servers come pre-configured
+coverY: 0
 ---
 
 # ⚔️ Getting Started with Minecraft (Java & Bedrock)

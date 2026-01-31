@@ -1,8 +1,7 @@
 ---
 description: >-
-  Test the power of a premium **Witchly Server** for 24 hours at no cost.
-  Experience high-speed Ryzen hardware and full panel access with zero
-  performance caps.
+  Test the power of a premium Witchly Server for 24 hours at no cost. Experience
+  high-speed Ryzen hardware and full panel access with zero performance caps.
 ---
 
 # 🧪 Claim Your 24-Hour Free Trial

@@ -16,7 +16,9 @@
 ## Minecraft (Java & Bedrock)
 
 * [⚔️ Getting Started with Minecraft (Java & Bedrock)](minecraft-java-and-bedrock/getting-started-with-minecraft-java-and-bedrock.md)
+* [🗺️ World Reset & Custom Seeds](minecraft-java-and-bedrock/world-reset-and-custom-seeds.md)
 * [🌎 Uploading Your World (Java & Bedrock)](minecraft-java-and-bedrock/uploading-your-world-java-and-bedrock.md)
+* [✅ Accepting the Minecraft EULA](minecraft-java-and-bedrock/accepting-the-minecraft-eula.md)
 * [📥 Downloading Your World](minecraft-java-and-bedrock/downloading-your-world.md)
 * [📜 Commands Cheat Sheet](minecraft-java-and-bedrock/commands-cheat-sheet.md)
 * [⚙️ Basic Server Settings](minecraft-java-and-bedrock/basic-server-settings.md)
@@ -46,6 +48,7 @@
 * [🔌 Rust Plugins (Oxide/UMod)](rust/rust-plugins-oxide-umod.md)
 * [📡 RCON & Remote Admin](rust/rcon-and-remote-admin.md)
 * [🌐 Custom Domain: Rust](rust/custom-domain-rust.md)
+* [☢️ Wiping the Map & Changing Seeds](rust/wiping-the-map-and-changing-seeds.md)
 
 ## Palworld
 
@@ -54,6 +57,7 @@
 * [💾 Backups & Saving Your World](palworld/backups-and-saving-your-world.md)
 * [🌐 Custom Domain: Palworld](palworld/custom-domain-palworld.md)
 * [🥊 Palworld: Known Issues & Common Fixes](palworld/palworld-known-issues-and-common-fixes.md)
+* [🐼 Starting a New World](palworld/starting-a-new-world.md)
 
 ## Others
 
